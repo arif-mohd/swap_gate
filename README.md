@@ -1,2 +1,3 @@
 # swap_gate
-implementing cnot using cr(pi/8) 
+The file to be graded is the one whose name starts with ibm.
+
